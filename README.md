@@ -2,6 +2,12 @@
 
 This is a chatbot application that utilizes GPT-4 to answer questions related to the content of a PDF document. The application is built with Streamlit and leverages the LangChain framework, OpenAI, FAISS and other libraries to provide an interactive and efficient way to query PDF documents.
 
+![Screenshot 2023-11-02 205946](https://github.com/saahil1801/PDF-ChatBot-using-GPT-4-and-Streamlit/assets/84408557/66582302-88d6-412b-88df-53c672282be0)
+
+![Screenshot 2023-11-02 210055](https://github.com/saahil1801/PDF-ChatBot-using-GPT-4-and-Streamlit/assets/84408557/3790cf55-728a-4f64-af30-b1709b021ba3)
+
+![Screenshot 2023-11-02 210207](https://github.com/saahil1801/PDF-ChatBot-using-GPT-4-and-Streamlit/assets/84408557/46511699-ab87-473e-aa08-02da0691792c)
+
 ## About
 
 This PDF chatbot was created to assist users in extracting information and answering questions from PDF documents.
